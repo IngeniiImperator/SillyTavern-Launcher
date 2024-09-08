@@ -75,12 +75,12 @@ chmod +x launcher.sh && ./launcher.sh
   * Visual Studio BuildTools,
   * CUDA Toolkit
 
-* Ability to automaticly install Text Completion apps:
+* Ability to automatically install Text Completion apps:
   * Text generation web UI oobabooga
   * koboldcpp
   * TabbyAPI
 
-* Ability to automaticly install Image Generation apps:
+* Ability to automatically install Image Generation apps:
   * Stable Diffusion web UI
   * Stable Diffusion web UI Forge
   * ComfyUI
